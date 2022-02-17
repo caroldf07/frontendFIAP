@@ -1,0 +1,312 @@
+#login {
+    width: 389px;
+    height: 856px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    max-width: 389px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: rgba(82, 106, 224, 1);
+}
+
+#componente-cabecalho {
+    top: 114.57614135742188px;
+    left: 82px;
+    width: 231px;
+    height: 43.151676177978516px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0);
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+}
+
+#texto-cabecalho {
+    top: -0.8859964609146118px;
+    left: -113.94004821777344px;
+    color: rgba(255, 255, 255, 1);
+    width: 461px;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#texto {
+    color: rgba(255, 255, 255, 1);
+    width: 461px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-weight: 700;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#componente-elipses {
+    top: -83px;
+    left: -86px;
+    width: 254px;
+    height: 262px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+}
+
+#svg-elipse-1 {
+    left: 82px;
+    width: 172px;
+    height: 167px;
+    position: absolute;
+}
+
+#svg-elipse-2 {
+    top: 95px;
+    width: 172px;
+    height: 167px;
+    position: absolute;
+}
+
+#notificacao {
+    top: 11.5960693359375px;
+    left: 16.597335815429688px;
+    width: 359px;
+    height: 20.029556274414062px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+}
+
+#svg-geolocalizacao {
+    top: 5.27093505859375px;
+    left: 38.38133239746094px;
+    width: 11px;
+    height: 11px;
+    position: absolute;
+}
+
+#svg-wifi {
+    top: 5.27093505859375px;
+    left: 312.2373046875px;
+    width: 20px;
+    height: 15px;
+    position: absolute;
+}
+
+#svg-bateria {
+    top: 5.27093505859375px;
+    left: 339.20794677734375px;
+    width: 20px;
+    height: 13px;
+    position: absolute;
+}
+
+#svg-internet-movel {
+    top: 5.27093505859375px;
+    left: 287.34130859375px;
+    width: 18px;
+    height: 15px;
+    position: absolute;
+}
+
+#componente-relogio {
+    top: 0px;
+    left: 0px;
+    color: rgba(255, 255, 255, 1);
+    width: 33px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#texto-relogio {
+    color: rgba(255, 255, 255, 1);
+    width: 33px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#botao-entrar {
+    top: 636px;
+    left: 48px;
+    width: 293px;
+    height: 62px;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    object-fit: cover;
+    border-radius: 36.5px;
+}
+
+#svg-robo {
+    top: 64px;
+    left: 0px;
+    width: 256px;
+    height: 123px;
+    fill: none;
+    position: absolute;
+}
+
+#text04 {
+    top: 4.438356399536133px;
+    left: 94.33993530273438px;
+    color: rgba(217, 186, 38, 1);
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#componente-cumprimento {
+    top: 199px;
+    left: 50px;
+    color: rgba(255, 255, 255, 1);
+    width: 294px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#texto-cumprimento {
+    color: rgba(255, 255, 255, 1);
+    width: 294px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#input-senha {
+    top: 500px;
+    left: 43px;
+    width: 296px;
+    height: 41px;
+    display: flex;
+    position: absolute;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    object-fit: cover;
+    border-radius: 100px;
+    background-color: rgba(255, 255, 255, 0.9900000095367432);
+}
+
+#componente-recuperar-senha {
+    top: 576px;
+    left: 130px;
+    color: rgba(217, 186, 38, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 500;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#link-conta:hover {
+    transition-delay: 0.1s;
+    background-color: rgba(217, 186, 38, 1);
+    color: black;
+}
+
+#link-conta {
+    color: rgba(217, 186, 38, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#input-email {
+    top: 424px;
+    left: 43px;
+    width: 296px;
+    height: 41px;
+    display: flex;
+    position: absolute;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    border-radius: 100px;
+    background-color: rgba(226, 229, 232, 1);
+    object-fit: cover;
+    border-radius: 100px;
+    background-color: rgba(255, 255, 255, 0.9900000095367432);
+}
+
+#componente-criar-conta {
+    top: 763px;
+    left: 0px;
+    color: rgba(255, 255, 255, 1);
+    width: 389px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}

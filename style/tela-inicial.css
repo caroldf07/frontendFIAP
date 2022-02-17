@@ -1,0 +1,174 @@
+#tela-inicial {
+    width: 389px;
+    height: 856px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    max-width: 389px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: rgba(82, 106, 224, 1);
+}
+
+#notificacao {
+    top: 11.5960693359375px;
+    left: 16.59735107421875px;
+    width: 359px;
+    height: 20.029556274414062px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+}
+
+#svg-geolocalizacao {
+    top: 5.27093505859375px;
+    left: 38.38133239746094px;
+    width: 11px;
+    height: 11px;
+    position: absolute;
+}
+
+#svg-wifi {
+    top: 5.27093505859375px;
+    left: 312.2373046875px;
+    width: 20px;
+    height: 15px;
+    position: absolute;
+}
+
+#svg-bateria {
+    top: 5.27093505859375px;
+    left: 339.20794677734375px;
+    width: 20px;
+    height: 13px;
+    position: absolute;
+}
+
+#svg-internet-movel {
+    top: 5.27093505859375px;
+    left: 287.34130859375px;
+    width: 18px;
+    height: 15px;
+    position: absolute;
+}
+
+#text {
+    top: 0px;
+    left: 0px;
+    color: rgba(255, 255, 255, 1);
+    width: 33px;
+    height: auto;
+    position: absolute;
+    font-size: 13px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#text1 {
+    color: rgba(255, 255, 255, 1);
+    width: 33px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#svg-retangulo {
+    top: 380px;
+    width: 389px;
+    height: 96px;
+    position: absolute;
+}
+
+#componente-relogio {
+    top: 273px;
+    left: 0px;
+    width: 389px;
+    height: 310.46807861328125px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+#componente-texto-relogio {
+    top: 0px;
+    left: 0px;
+    color: rgba(255, 255, 255, 1);
+    width: 389px;
+    height: auto;
+    position: absolute;
+    font-size: 48px;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#texto-relogio {
+    color: rgba(255, 255, 255, 1);
+    width: 389px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: center;
+    font-weight: 700;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+#svg-relogio {
+    top: 96px;
+    left: 96px;
+    width: 200px;
+    height: 214px;
+    fill: none;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+}
+
+#componente-elipses {
+    top: -83px;
+    left: -86px;
+    width: 254px;
+    height: 262px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+}
+
+#svg-elipse-1 {
+    left: 82px;
+    width: 172px;
+    height: 167px;
+    position: absolute;
+}
+
+#svg-elipse-2 {
+    top: 95px;
+    width: 172px;
+    height: 167px;
+    position: absolute;
+}
